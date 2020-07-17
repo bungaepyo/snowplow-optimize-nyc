@@ -12,6 +12,10 @@ Therefore, the city government must be able to optimally prepare against annual 
 Plowing trucks play a huge role in this overall issue because they are on the frontier, physically removing
 snow and spraying salt. Thus, the question I want to answer is “where should the government primarily locate its plowing trucks?”
 
+### How to see the analysis
+---
+- Ko_Ju_Mong_Final.ipynb (In the directory above)
+
 ### Models
 ---
 - Gurobi Optimization
